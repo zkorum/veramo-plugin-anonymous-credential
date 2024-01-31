@@ -1,6 +1,6 @@
 # Veramo plugin template
 
-IMPORTANT: THIS PLUGIN IS NOT DEVELOPED YET
+WARNING: THIS PLUGIN IS NOT DEVELOPED YET (see backstory here: https://github.com/decentralized-identity/veramo/issues/333#issuecomment-1918980116)
 
 This template repository provides a bare-bones structure for writing an agent plugin for Veramo and/or for providing
 your own implementations for key management and storage, or for DID storage.
