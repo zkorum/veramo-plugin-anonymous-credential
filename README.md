@@ -1,5 +1,7 @@
 # Veramo plugin template
 
+IMPORTANT: THIS PLUGIN IS NOT DEVELOPED YET
+
 This template repository provides a bare-bones structure for writing an agent plugin for Veramo and/or for providing
 your own implementations for key management and storage, or for DID storage.
 
